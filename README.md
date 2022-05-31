@@ -1,11 +1,11 @@
-
-![header](https://capsule-render.vercel.app/api?type=Slice&height=150&text=EunbinLee)
-<h3 align="center">Way to me</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+<h3 align="center">👉Way to me👈</h3>
 <p align="center">
 <a href="https://"><img src="https://img.shields.io/badge/Portfolio-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <a href="https://blog.naver.com/leb4610" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
-<h3 align="center">Technical List</h3>
+<h3 align="center">🎨Tech Stack🎨</h3>
+<p align="center">It's my Technical List</p>
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1a2432fe733ac4772ad5036bd3f66738d9a9c4471bba0617c8ea93c34d54102a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1a2432fe733ac4772ad5036bd3f66738d9a9c4471bba0617c8ea93c34d54102a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/59f34522112650b0eb7e9542af81c8129193d96002728d451069d002d30b17a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/59f34522112650b0eb7e9542af81c8129193d96002728d451069d002d30b17a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;
