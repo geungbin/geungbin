@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eunbin%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20potential%20is%20limitless!&descAlignY=51&descAlign=62)
 <h3 align="center">👉Way to me👈</h3>
 <p align="center">
-<a href="https://" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br><br>
+<a href="https://" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://blog.naver.com/leb4610" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 <h3 align="center">🎨Tech Stack🎨</h3>
