@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://www.notion.so/EUNBIN-LEE-13cc1830a5f44ca89b2b886f3e3a7d5f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://blog.naver.com/leb4610" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://velog.io/@geungbin"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 <h3 align="center">🎨Tech Stack🎨</h3>
 <p align="center">
